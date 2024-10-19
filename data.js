@@ -4510,4 +4510,19 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: "Thomas Derflinger",
+    description: "Visionary entrepreneur and software developer",
+    url: "https://tderflinger.com",
+    tags: [
+      "Cloud",
+      "DevOps",
+      "Web",
+      "React",
+      "Python",
+      "XR",
+      "IoT",
+      "Mobile"
+      ],
+  },
 ];
